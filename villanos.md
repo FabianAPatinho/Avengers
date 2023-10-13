@@ -1,4 +1,5 @@
 # Villanos
 
-* Dr Doom
+* Dr. Doom
 * Red Skull
+* Dr. Patiño
